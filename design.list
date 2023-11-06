@@ -1,6 +1,5 @@
-# dribbble
 DOMAIN-KEYWORD,dribbble
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,cdn.dribbble.com
-# google授权登录
-DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-KEYWORD,behance
+DOMAIN-SUFFIX,behance.net
